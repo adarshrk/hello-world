@@ -1,0 +1,9 @@
+1. Last approval manager's reporting manager would be null or his id itself?
+2. If a user cancels the leave request then do we need to keep the data or leave workflow regarding that in database?
+3. Three API's needed:-
+	a. to show the leave options
+	b. to cancel 
+	c. to update
+4. To show highest approver(manager) level is reached
+5. Implementation of comp off.
+6. After there is a send back does all the managers below him aware of his action or not ?
